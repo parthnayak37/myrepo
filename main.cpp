@@ -10,7 +10,9 @@ using namespace std;\
 \
 int main()\{\
 cout<<\'93hello world\'94;\
+cout<<"hello dot batch";
 return 0;\
+
 \}\
 \
 \
