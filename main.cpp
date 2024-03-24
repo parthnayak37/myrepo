@@ -8,7 +8,11 @@
 \f0\fs24 \cf0 #include <iostream>\
 using namespace std;\
 \
+
 void bubblesort(){
+    //
+    }
+void quicksort(){
     //
 }
 int main()\{\
