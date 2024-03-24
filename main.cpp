@@ -8,6 +8,9 @@
 \f0\fs24 \cf0 #include <iostream>\
 using namespace std;\
 \
+void quicksort(){
+    //
+}
 int main()\{\
 cout<<\'93hello world\'94;\
 cout<<"hello dot batch";
