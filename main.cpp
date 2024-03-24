@@ -15,6 +15,9 @@ void bubblesort(){
 void quicksort(){
     //
 }
+void mergesort(){
+    
+}
 int main()\{\
 cout<<\'93hello world\'94;\
 cout<<"hello dot batch";
